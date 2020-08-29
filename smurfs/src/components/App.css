@@ -5,3 +5,10 @@ h1{
   text-align: center;
   background-color: rgb(155, 119, 189);
 }
+
+h2{
+  color: rgb(130, 146, 96);
+}
+button{
+  background-color: rgb(194, 122, 109);
+}
